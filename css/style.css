@@ -1,0 +1,286 @@
+/* global styles */
+
+* {
+
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #D5DBE2;
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin: 0;
+}
+
+.br-20 {
+    border-radius: 20px;
+    ;
+}
+
+.p-15 {
+    padding: 15px;
+}
+
+.w-100 {
+    width: 100%;
+}
+
+.w-50 {
+    width: 50%;
+}
+
+.pt-45 {
+    padding-top: 45px;
+}
+
+.py-40 {
+    padding: 40px 0;
+}
+
+.py-10 {
+    padding: 10px 0;
+}
+
+.px-10 {
+    padding: 0 10px;
+}
+
+.px-30 {
+    padding: 0 30px;
+}
+
+.pt-40 {
+    padding-top: 40px;
+}
+
+.pt-20 {
+    padding-top: 20px;
+}
+
+.pb-15 {
+    padding-bottom: 15px;
+}
+
+.pb-30 {
+    padding-bottom: 30px;
+}
+
+.pr-40 {
+    padding-right: 40px;
+}
+
+.float-left {
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.img {
+    width: 100%;
+}
+
+.w-25 {
+    width: 25%;
+}
+
+.w-75 {
+    width: 75%;
+}
+
+h2 {
+    border-bottom: 1px solid #d5e5f5;
+    padding-bottom: 15px;
+    color: #0C3C70;
+}
+
+h4 {
+    color: #0A65AD;
+    padding-bottom: 15px;
+}
+
+.inner {
+    padding: 40px;
+}
+
+.contanier {
+    width: 80%;
+    margin: 0 auto;
+
+}
+
+
+/* head section */
+.header .header-content {
+    background-color: #18487B;
+}
+
+.header {
+    color: white;
+}
+
+.header a {
+    text-decoration: none;
+    color: white;
+    border: 2px #3D6590 solid;
+    background-color: #2A5685;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 5px;
+
+}
+
+/* about section */
+
+.about-section .about-content img {
+    border-radius: 70%;
+    padding: 35px;
+    border-color: #E9F5FF 5px solid;
+}
+
+.about-section .about-content {
+    background-color: white;
+}
+
+.about-section .about-content p {
+    padding-bottom: 25px;
+}
+
+.about-section a {
+    text-decoration: none;
+    color: white;
+    background-color: #0B65AD;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+span {
+    color: #0A65AD;
+}
+
+/* skills section */
+.cards {
+    background-color: #FAFCFF;
+
+}
+
+.cards .each-card {
+    width: 25%;
+    padding: 15px;
+
+}
+
+.cards .inner-skills {
+
+    padding: 20px;
+    border: 2px solid #DBEAFE;
+    border-radius: 20px;
+    background-color: #FAFCFF;
+
+}
+
+.skills-content {
+
+    background-color: #FFFFFF;
+}
+
+
+
+.skills .skills-content h3 {
+
+    color: #0A65AD;
+}
+
+.skills .skills-content p {
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+/* experience section */
+
+.experience-content {
+    background-color: #FFFFFF;
+
+}
+
+.experience .experience-content .inner-item1 {
+    background-color: #F8FAFC;
+    padding: 40px;
+    border-left: 3px solid #0B65AD;
+    border-radius: 15px;
+
+}
+
+.item1 {
+    padding: 20px;
+}
+
+.item1-img {
+    background-color: white;
+    width: 10%;
+    padding: 10px;
+    border-radius: 15px;
+    border: 2px solid #D9E9FE;
+}
+
+.item1-content {
+    width: 90%;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
+
+
+/* contact section */
+.contact {
+    padding: 20px 0;
+}
+
+.contact-content {
+    background-color: #0C3C70;
+
+}
+
+.contact-content h2 {
+    color: white;
+}
+
+.contact-content p {
+    color: white;
+    /* padding:20px; */
+    padding-top: 35px;
+    padding-bottom: 35px;
+    ;
+}
+
+.contact-content a {
+    text-decoration: none;
+    color: white;
+    background-color: #305B88;
+    padding: 15px;
+    border-radius: 10px;
+    margin: 5px;
+    border: 1px solid #7c97b9;
+}
+
+/* last section */
+.last-content {
+    background-color: #071A35;
+    padding: 30px;
+    border-radius: 15px;
+}
+
+.last-content p {
+    color: white;
+}
+
+.last-section {
+    padding-bottom: 20px;
+}
